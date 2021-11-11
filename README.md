@@ -3,7 +3,7 @@ A regression analysis I did for the Emporia Granada Theatre (EGT) to help predic
 
 # Summary
 
-Predictor variables were selected from Pollstar and Facebook and regressed onto Income, Profit, and Bar Sales for the Emporia Granada Theatre in order to help answer the question "Which bands should we hire in the future to maximize profits?".  Ultimately, a very useful model (With a predictive R^2 value of 59%) for predicting Income was produced, and the best models for each regressor were programmed into a user dashboard on Google Sheets.  This give the EGT insight into unfamiliar bands, and allows a booking agent with limited experience to make more educated decisions. Armed with these powerful insights, booking should yeild higher profit margins while mitigating the risk of losing money on an event by hiring pricey bands.
+Predictor variables were selected from Pollstar and Facebook and regressed onto Income, Profit, and Bar Sales for the Emporia Granada Theatre in order to help answer the question "Which bands should we hire in the future to maximize profits?".  Ultimately, a very useful model for predicting Income was produced (With a predictive R^2 value of 59%), and the best models for each regressor were programmed into a user dashboard on Google Sheets.  This give the EGT insight into unfamiliar bands, and allows a booking agent with limited experience to make more educated decisions. Armed with these powerful insights, booking should yeild higher profit margins while mitigating the risk of losing money on an event by hiring pricey bands.
 
 # Files
 1. README.md - This file
