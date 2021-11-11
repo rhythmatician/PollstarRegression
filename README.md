@@ -12,4 +12,6 @@ Files:
 
 Usage of the dashboard is simple: You simply select a band from the dropdown list at the top of the dashboard, and the information will auto-populate.  New bands can be added in the Bands sheet.  If a band is selected that does not meet the requirements of a given model, this will be indicated by a cell highlighted in red, specific to whatever range assumption is being violated.
 
-At EGT the dashboard is hosted on Google Sheets, and is integrated with a Google Form to make adding new bands easy and user-friendly.  Since the dashboard was built in Google Sheets, this may be the best place to view it.  Proper formatting is not guaranteed in MS Excel.
+At EGT the dashboard is hosted on Google Sheets, and is integrated with a Google Form to make adding new bands easy and user-friendly.
+
+Since the dashboard was built in Google Sheets, this may be the best place to view it.  Proper formatting is not guaranteed in MS Excel.
