@@ -1,5 +1,5 @@
 # Pollstar Bands: A Regression Analysis
-A regression analysis I did for the Emporia Granada Theatre (EGT) to help predict the efficacy of potential concerts in the future.
+A regression analysis I did for the Emporia Granada Theatre (EGT) to help predict the efficacy of most any band we may consider hiring in the future.
 
 # Summary
 
