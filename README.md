@@ -16,4 +16,4 @@ Usage of the dashboard is simple: You simply select a band from the dropdown lis
 
 At EGT the dashboard is hosted on Google Sheets and is connected to a Google Form to make adding new bands easy and user-friendly.
 
-Since the dashboard was built in Google Sheets, this may be the best place to view it.  Proper formatting is not guaranteed in MS Excel.
+Since the dashboard was built in Google Sheets, that may be the best place to view it.  Proper formatting is not guaranteed in MS Excel.
