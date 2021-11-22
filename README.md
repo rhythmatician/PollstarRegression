@@ -11,7 +11,8 @@ This gives the EGT insight into unfamiliar bands, and allows a booking agent wit
 # Files
 1. README.md - This file
 2. Pollstar Regression Report.pdf - An extensive report in PDF format outlining the methods used and the overall procedure of the analysis.  Anyone curious about the methods used in this analysis should be directed to this file.
-3. Pollstar Regression Dashboard.xlsx - Dashboard for utilizing the resultant models, in the form of a downloadable Excel workbook. Anyone interested in the end-result should download this file.
+3. Pollstar Regression Dashboard.xlsx - Dashboard for utilizing the resultant models, in the form of a downloadable Excel workbook. Anyone interested in the end-result should download this file or simply view the original here:
+https://docs.google.com/spreadsheets/d/1Sc3ehiAH667C-rpUyheu4uyhFGBcUWJx0gSsMmAyJGA
 
 The raw data used in this analysis includes specific financial records and has therefore been omitted to protect the privacy of the Emporia Granada Theatre.
 
